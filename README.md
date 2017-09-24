@@ -5,7 +5,7 @@ Are you lazy as me? Bored to write findViewById() everytime, when you want find 
 ## How it works
 
 
-Lets say you have a layuot like this for an Activity:
+Lets say you have a layout like this for an Activity:
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
