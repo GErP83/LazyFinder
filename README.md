@@ -106,7 +106,12 @@ Well if you a fan of using ProGuard then you need add this to the proguard-rules
 Proguard will mess up field names, so finding will not work, because field name will not equal to @+id name. 
 
 ## Requirements
-None.
+Android api 4.3+.
+
+Add to dependencies:
+```
+compile 'com.github.gerp83:LazyFinder:1.00'
+```
   
 ## Examples
 You can find working examples in the demo folder.
