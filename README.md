@@ -110,7 +110,7 @@ Android api 4.3+.
 
 Add to dependencies:
 ```
-compile 'com.github.gerp83:LazyFinder:1.00'
+compile 'com.github.gerp83:LazyFinder:1.01'
 ```
   
 ## Examples
