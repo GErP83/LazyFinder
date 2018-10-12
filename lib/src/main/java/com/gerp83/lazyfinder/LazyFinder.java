@@ -73,7 +73,7 @@ public class LazyFinder {
      * @param context Context
      * @param fragment Fragment
      * @param view the view to find all field with findViewById(id)
-     * @param deepness if serach is needed in the superclasses as well
+     * @param deepness if search is needed in the superclasses as well
      */
     public static void findAll(Context context, Fragment fragment, View view, int deepness) {
         if (context == null || fragment == null || view == null) {
