@@ -1,3 +1,5 @@
+I do not support this anymore, it is only for showcase. I recommend to use [Data Binding](https://developer.android.com/topic/libraries/data-binding) or [Butterknife](https://github.com/JakeWharton/butterknife) or [Kotlin extensions](https://kotlinlang.org/docs/tutorials/android-plugin.html)
+
 # LazyFinder
 
 Are you lazy as me? Bored to write findViewById() everytime, when you want find and use a View? Here is an easy solution for you. I know there are @annotation based solutions already, so what is the difference with LazyFinder then? Well you have to write only ONE line of code, nothing more. There is only one rule: you have to name the View's @+id and field name to the same.
@@ -110,7 +112,7 @@ Android api 4.3+.
 
 Add to dependencies:
 ```
-compile 'com.github.gerp83:LazyFinder:1.03'
+implementation 'com.github.gerp83:LazyFinder:1.03'
 ```
   
 ## Examples
